@@ -3,7 +3,7 @@
 
 ## 📒 E-book gerado por I.A.s
 
-<a href="https://github.com/Vaneloppe215/prompts-ebook/edit/main/file:///C:/Users/User/Documents/desafio%20dio.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Vaneloppe215/prompts-ebook/blob/main/desafio%20dio.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
